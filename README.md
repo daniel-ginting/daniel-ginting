@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming in general
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on some projects
-- 📫 How to reach me DanielGinting#0651 on discord
+- 📫 Reach me by DanielGinting#0651 on discord
 
 <!---
 daniel-ginting/daniel-ginting is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
