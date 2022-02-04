@@ -1,5 +1,7 @@
 # Daniel Ginting 😀
 
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
 - 👋 Hi, I’m @daniel-ginting
 - 👀 I’m interested in programming in general
 - 🌱 I’m currently learning web development
