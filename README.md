@@ -1,3 +1,5 @@
+# Daniel Ginting 😀
+
 - 👋 Hi, I’m @daniel-ginting
 - 👀 I’m interested in programming in general
 - 🌱 I’m currently learning web development
