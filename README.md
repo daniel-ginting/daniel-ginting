@@ -1,4 +1,6 @@
-# DanielGinting😀
+# [Daniel Ginting 😀](https://danielyosua.com)
+
+
 
 - 👋 Hi, I’m @daniel-ginting
 - 👀 I’m interested in programming in general
