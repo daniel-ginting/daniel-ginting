@@ -1,4 +1,4 @@
-# [https://danielyosua.com](Daniel Ginting 😀)
+# [https://danielyosua.com](DanielGinting😀)
 
 - 👋 Hi, I’m @daniel-ginting
 - 👀 I’m interested in programming in general
