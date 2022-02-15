@@ -3,7 +3,7 @@
 
 LinkedIn : https://www.linkedin.com/in/daniel-ginting-409813224/ \
 E-mail : daniel_yjg@yahoo.com\
-Website : https://www.danielyosua,com
+Website : https://www.danielyosua.com
 
 
 - 👋 Hi, I’m @daniel-ginting
